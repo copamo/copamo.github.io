@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Workshop on Collaborative and Participatory Modeling 2024
-email: copamo2024@easychair.org
+title: Workshop on Collaborative and Participatory Modeling 2025
+email: copamo2025@easychair.org
 description: >- # this means to ignore newlines until "baseurl:"
  Collaborative modeling is an important enabler to engineering complex systems. While mostly focusing on the technical and technological aspects of 
  collaboration, the MDE community has also recognized the need for more pronounced stakeholder-facing concerns in collaborative modeling techniques 
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the latest developments in Collaborative and Participatory Modeling, as well as to expose the synergies between collaborative and participatory
    modeling by inviting researchers and organizers from both communities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "copamo2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -55,3 +55,5 @@ navigation:
   url: /dates
 - title: Organization
   url: /organization
+- title: Past Events
+  url: /past-events

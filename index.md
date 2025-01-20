@@ -5,7 +5,7 @@ permalink: /
 order: 1
 ---
 
-<div class="info">
+<!-- <div class="info">
     <div class="announcement-type">
         PRESENTATIONS
     </div>
@@ -14,7 +14,7 @@ order: 1
     </div>
     <div class="announcement-date">
     </div>
-</div>
+</div> -->
 
 <!--
 <div class="info">
@@ -57,9 +57,9 @@ order: 1
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
 
-<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'24</a></div>
-22 September, 2024<br />
-Linz, Austria<br/>
+<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="https://conf.researchr.org/home/models-2025" target="_blank">MODELS'25</a></div>
+5 - 10 October, 2025<br />
+Michigan, USA<br/>
 
 ## About CoPaMo
 
