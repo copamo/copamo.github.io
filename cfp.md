@@ -44,24 +44,23 @@ We solicit the following types of papers.
 
 Note: **page limits include references**!
 
-All submitted papers must adhere to the [ACM Conference](https://www.acm.org/publications/proceedings-template) format.
+All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format.
 
-LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., \documentclass[sigconf,review]{acmart}), and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
+LaTeX users must use the provided style files without modification.
+IEEE requires the use of ORCIDs. LaTeX users should use the orcidlink package, \hypersetup{pdfborder={0 0 0}}, and \orcidlink{XXXX-XXXX-XXXX-XXXX} after each author name.
+
+
 
 ### **Submission**
-Manuscripts are to be submitted electronically through EasyChair: <a href="https://easychair.org/conferences?conf=copamo2024" target="_blank">https://easychair.org/conferences?conf=copamo2024</a>.
+Manuscripts are to be submitted electronically through EasyChair: <a href="https://easychair.org/conferences?conf=copamo2025" target="_blank">https://easychair.org/conferences?conf=copamo2025</a>.
 All submissions will be reviewed by at least 3 members of the program committee. 
 
 ### **Presentations**
-Authors of each accepted paper will be invited to give a *regular* talk.
+Authors of each accepted paper will be invited to give a talk.
 
 ### **Proceedings**
-Accepted papers are intended to be published in the [MODELS](https://conf.researchr.org/home/models-2024) Companion proceedings and the workshop website. To be published in the proceedings, at least one author of accepted papers must present their work at the workshop.
+Accepted papers are intended to be published in the [MODELS](https://conf.researchr.org/home/models-2025) Companion proceedings and the workshop website. To be published in the proceedings, at least one author of accepted papers must present their work at the workshop.
 
 #### **General regulations**
 
-- By submitting to CoPaMo, authors acknowledge that they are aware of and agree to be bound by the ACM Policy and Procedures on Plagiarism. In particular, papers submitted to CoPaMo must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for CoPaMo.
-
-- By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM's new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
-
-- Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2024. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+By submitting to CoPaMo, authors acknowledge that they are aware of and agree to the [IEEE Authors Rights and Responsibilities](https://www.ieee.org/publications/rights/author-rights-responsibilities.html). In particular, papers submitted to CoPaMo must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for CoPaMo.
