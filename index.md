@@ -5,61 +5,13 @@ permalink: /
 order: 1
 ---
 
-<div class="info">
-    <div class="announcement-type">
-        PRESENTATIONS
-    </div>
-    <div class="announcement-content">
-        [24.09.2024.] Presentations for the talks are available in the <a href="https://copamo.github.io/talks">Talks page</a>.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-<!--
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        [06.08.2024.] Workshop dates are now final; we'll organize CoPaMo on Sunday, 22 September, 2024.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-
-<div class="info">
-    <div class="announcement-type">
-        LATEST NEWS
-    </div>
-    <div class="announcement-content">
-        [16.07.2024.] The submission deadline has passed. We will now review your submissions and notify you by August 7. The submission site remains open for a few more days.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
-
-
-<div class="important">
-    <div class="announcement-type">
-        IMPORTANT NEWS
-    </div>
-    <div class="announcement-content">
-        [26.06.2024.] The submission deadline has been extended by 10 days to **July 15**. Details <a href="/dates" style="color:white;text-decoration:underline;">here</a>.
-    </div>
-    <div class="announcement-date">
-    </div>
-</div>
--->
-
 <div>
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
 
-<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'24</a></div>
-22 September, 2024<br />
-Linz, Austria<br/>
+<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></div>
+October, 2025<br />
+Ann Arbor, MI, USA<br/>
 
 ## About CoPaMo
 
