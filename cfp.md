@@ -47,8 +47,9 @@ Note: **page limits include references**!
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format.
 
 LaTeX users must use the provided style files without modification.
-IEEE requires the use of ORCIDs. LaTeX users should use the orcidlink package, \hypersetup{pdfborder={0 0 0}}, and \orcidlink{XXXX-XXXX-XXXX-XXXX} after each author name.
+IEEE requires the use of ORCIDs. LaTeX users should use the orcidlink package, `\hypersetup{pdfborder={0 0 0}}`, and `\orcidlink{XXXX-XXXX-XXXX-XXXX}` after each author name.
 
+Please note the [IEEE Authors Rights and Responsibilities](https://www.ieee.org/publications/rights/author-rights-responsibilities.html).
 
 
 ### **Submission**
