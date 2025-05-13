@@ -1,18 +1,44 @@
-- name: BORK, Dominik
-  affiliation: TU Wien, Austria
-  website: https://informatics.tuwien.ac.at/people/dominik-bork
+- name: ASSUNÇÃO, Wesley
+  affiliation: North Carolina State University, USA
+  website: 
+- name: BADHAM, Jennifer
+  affiliation: Durham University, UK
+  website: 
+- name: BANDUR, Victor
+  affiliation: McMaster University, Canada
+  website: 
 - name: EXELMANS, Joeri
   affiliation: University of Antwerp, Belgium
   website: https://www.uantwerpen.be/en/staff/joeri-exelmans/
-- name: GIABBANELLI, Philippe
+- name: GORE, Ross
   affiliation: Old Dominion University, USA
-  website: https://giabbanelli.com/author/philippe-j.-giabbanelli/
-- name: MUSTAFIZ, Sadaf
-  affiliation: Toronto Metropolitan University, Canada
-  website: https://cs.torontomu.ca/~sadaf/
+  website: 
+- name: JONGELING, Robbert
+  affiliation: Mälardalen University, Sweden
+  website: 
+- name: KOLAHDOUZ-RAHIMI, Shekoufeh
+  affiliation: University of Roehampton, UK
+  website: 
+- name: RAO, DJ
+  affiliation: Miami University, USA
+  website: 
+- name: RASCHKE, Alexander
+  affiliation: Ulm University, Germany
+  website: 
 - name: SHARBAF, Mohammadreza
   affiliation: University of Isfahan, Iran
   website: https://msharbaf.ir/
+- name: TOLK, Andreas
+  affiliation: MITRE, USA
+  website: 
+- name: YUAN, Irene
+  affiliation: McMaster University
+  website: https://ireneyeyuan.me/
+
+====
+
+
+
 - name: SNOECK, Monique
   affiliation: KU Leuven, Belgium
   website: https://www.kuleuven.be/wieiswie/en/person/00012755
@@ -22,15 +48,9 @@
 - name: VAN DER HOEK, André
   affiliation: University of California Irvine, USA
   website: https://ics.uci.edu/~andre/index.html
-- name: ASLAM, Kousar
-  affiliation: Vrije Universiteit Amsterdam, Netherlands
-  website: https://scholar.google.com/citations?user=IDGSVEgAAAAJ&hl=nl
 - name: DE VRIES, Marne
   affiliation: University of Pretoria, South Africa
   website: https://www.up.ac.za/industrial-and-systems-engineering/article/2663766/dr-marn-de-vries
-- name: NETO, Valdemar
-  affiliation: Universidade Federal de Goiás, Brazil
-  website: https://ww2.inf.ufg.br/~valdemarneto/
 - name: ROSENTHAL, Kristina
   affiliation: Niederrhein University of Applied Sciences, Germany
   website: https://www.hs-niederrhein.com/faculties/faculty-of-business-administration-and-economics/persons-faculty-of-business-administration-and-economics/rosenthal/ 
@@ -46,6 +66,3 @@
 - name: KOÇ, Hasan
   affiliation: Berlin International University of Applied Sciences, Germany
   website: https://www.berlin-international.de/en/hasan-koc/
-- name: YUAN, Irene
-  affiliation: McMaster University, Canada
-  website: https://ireneyeyuan.me/
