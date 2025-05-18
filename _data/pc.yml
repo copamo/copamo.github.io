@@ -1,9 +1,9 @@
 - name: ASSUNÇÃO, Wesley
   affiliation: North Carolina State University, USA
-  website: 
+  website: https://wesleyklewerton.github.io/
 - name: BADHAM, Jennifer
   affiliation: Durham University, UK
-  website: 
+  website: https://www.durham.ac.uk/staff/jennifer-badham/
 - name: BANDUR, Victor
   affiliation: McMaster University, Canada
   website: 
@@ -12,57 +12,34 @@
   website: https://www.uantwerpen.be/en/staff/joeri-exelmans/
 - name: GORE, Ross
   affiliation: Old Dominion University, USA
-  website: 
+  website: https://rossgore.github.io/
 - name: JONGELING, Robbert
   affiliation: Mälardalen University, Sweden
-  website: 
-- name: KOLAHDOUZ-RAHIMI, Shekoufeh
-  affiliation: University of Roehampton, UK
-  website: 
-- name: RAO, DJ
-  affiliation: Miami University, USA
-  website: 
-- name: RASCHKE, Alexander
-  affiliation: Ulm University, Germany
-  website: 
-- name: SHARBAF, Mohammadreza
-  affiliation: University of Isfahan, Iran
-  website: https://msharbaf.ir/
-- name: TOLK, Andreas
-  affiliation: MITRE, USA
-  website: 
-- name: YUAN, Irene
-  affiliation: McMaster University
-  website: https://ireneyeyuan.me/
-
-####
-
-
-
-- name: SNOECK, Monique
-  affiliation: KU Leuven, Belgium
-  website: https://www.kuleuven.be/wieiswie/en/person/00012755
-- name: SUNYÉ, Gerson
-  affiliation: University of Nantes, France
-  website: https://sunye-g.univ-nantes.io/
-- name: VAN DER HOEK, André
-  affiliation: University of California Irvine, USA
-  website: https://ics.uci.edu/~andre/index.html
-- name: DE VRIES, Marne
-  affiliation: University of Pretoria, South Africa
-  website: https://www.up.ac.za/industrial-and-systems-engineering/article/2663766/dr-marn-de-vries
-- name: ROSENTHAL, Kristina
-  affiliation: Niederrhein University of Applied Sciences, Germany
-  website: https://www.hs-niederrhein.com/faculties/faculty-of-business-administration-and-economics/persons-faculty-of-business-administration-and-economics/rosenthal/ 
-- name: SANDKUHL, Kurt
-  affiliation: University of Rostock, Germany
-  website: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/professors/prof-dr-kurt-sandkuhl/
-- name: STIRNA, Janis
-  affiliation: Stockholm University, Sweden
-  website: https://www.su.se/english/profiles/js-1.181561
-- name: PIETRON, Jakob
-  affiliation: Ulm University, Germany
-  website: https://www.uni-ulm.de/in/sp/team/jakob-pietron/ 
+  website: https://robbertjongeling.com/
 - name: KOÇ, Hasan
   affiliation: Berlin International University of Applied Sciences, Germany
   website: https://www.berlin-international.de/en/hasan-koc/
+- name: KOLAHDOUZ-RAHIMI, Shekoufeh
+  affiliation: University of Roehampton, UK
+  website: https://pure.roehampton.ac.uk/portal/en/persons/shekoufeh-kolahdouz-rahimi
+- name: RAO, DJ
+  affiliation: Miami University, USA
+  website: https://miamioh.edu/profiles/cec/dj-rao.html
+- name: RASCHKE, Alexander
+  affiliation: Ulm University, Germany
+  website: https://www.uni-ulm.de/in/sp/team/dr-alexander-raschke/
+- name: SANDKUHL, Kurt
+  affiliation: University of Rostock, Germany
+  website: https://www.wirtschaftsinformatik.uni-rostock.de/en/chair/team/professors/prof-dr-kurt-sandkuhl/
+- name: SHARBAF, Mohammadreza
+  affiliation: University of Isfahan, Iran
+  website: https://msharbaf.ir/
+- name: SNOECK, Monique
+  affiliation: KU Leuven, Belgium
+  website: https://www.kuleuven.be/wieiswie/en/person/00012755
+- name: TOLK, Andreas
+  affiliation: MITRE, USA
+  website: https://www.odu.edu/directory/andreas-tolk
+- name: YUAN, Irene
+  affiliation: McMaster University
+  website: https://ireneyeyuan.me/
