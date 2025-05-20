@@ -34,15 +34,10 @@ The topics of interest include, but are not limited to:
 ### **Paper format**
 
 We solicit the following types of papers.
-- *Full* research papers (up to 10 pages) reporting on novel scientific contributions
-- Short papers (5 pages), including:
-  - *Work-in-progress* papers reporting on preliminary results;
-  - *Vision* papers outlining new ideas;
-  - *Case* papers describing real-life cases;
-  - *Tool* papers demonstration of collaborative tools and frameworks;
-  - *Tool concept* papers aiming to validate concepts and requirements of tools currently in development.
+- *Full* research papers (up to 10 pages) reporting on novel scientific contributions.
+- *Short* papers (5 pages), presenting works in progress, preliminary results, new ideas; and collaborative tools and frameworks.
 
-Note: **page limits include references**!
+Note: **page limits include references**.
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format.
 
