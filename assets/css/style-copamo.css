@@ -150,6 +150,7 @@ table tr:nth-child(odd) {
 .expired-date{
     color: #FF6666;
     font-weight: 400;
+    text-decoration: line-through;
 }
 
 .vision{
