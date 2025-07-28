@@ -14,7 +14,7 @@ The is not the final list yet as some papers have been conditionally accepted. I
 <div>
   <ul>
     {% for paper in papers %}
-      <li><b>{{ paper.title }}</b> by {{ paper.authors }}</li>
+      <li><b>{{ paper.title }}</b><br/>by {{ paper.authors }}</li>
     {% endfor %}
   </ul>
 </div>
