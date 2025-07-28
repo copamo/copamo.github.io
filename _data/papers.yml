@@ -1,42 +1,21 @@
-- title: "Modular Consistency Checking Between Heterogeneous Models Without Direct Data Exchange Between Collaborators"
-  authors: "Sebastian Bergemann and Nina Benkendorf"
-  paperid: 1
-  url: /assets/presentations/Bergemann.pptx
-- title: "Engaging End-User-Modelers: An Action Research Study"
-  authors: "Harald Störrle"
-  url: /assets/presentations/Storrle.pdf
-  paperid: 3
-- title: "ARC³N: A Collaborative Uncertainty Catalog to Address the Awareness Problem of Model-Based Confidentiality Analysis"
-  authors: "Sebastian Hahner, Nils Niehues, Nicolas Boltz, Mario Fuksa and Robert Heinrich"
-  paperid: 5
-- title: "Participatory and Collaborative Modeling of Sustainable Systems: A Systematic Review"
-  authors: "Rajitha Manellanga and Istvan David"
+- title: "User Experiences of Using Simulink in Industrial Settings for Code and Model Generation - A survey"
+  authors: "Johan Cederbladh and Jakob Norin"
+  paperid: 4
+- title: "Do we Still Need People? Comparing Human and LLM Personas in Political Modeling and Simulation"
+  authors: "Stephen Zhong, Nathalie Japkowicz and Philippe Giabbanelli"
   paperid: 6
-  url: /assets/presentations/David.pdf
-- title: "A Tool for Collaborative Consistency Checking During Modeling"
-  authors: "Luciano Marchezan, Marcel Homolka, Andrei Blokhin, Wesley K. G. Assunção, Edvin Herac and Alexander Egyed"
+- title: "Combining and Simplifying the Mental Models of Participants: An Edge Centrality-Based Method for Fuzzy Cognitive Maps"
+  authors: "Ryan Schuerkamp and Philippe J. Giabbanelli"
   paperid: 7
-  url: /assets/presentations/Marchezan.pdf
-- title: "Towards a collaborative approach for Digital Twin simulation models comprehension"
-  authors: "Arianna Fedeli and David A. Manrique Negrin"
+- title: "A Local-First Collaborative Modeling Approach with Replicated Data Types"
+  authors: "Léo Olivier, Kirollos Morcos, Marcos Didonet Del Fabro and Sébastien Gérard"
   paperid: 8
-  url: /assets/presentations/Fedeli.pdf
-- title: "Towards public understanding of software through modeling"
-  authors: "Robbert Jongeling"
-  paperid: 9
-  url: /assets/presentations/Jongeling.pdf
-- title: "Towards Model-Based Adoption for Requirements Elicitation in Railway - the Role of Collaborative and Participatory Modelling"
-  authors: "Henrik Gustavsson and Johan Cederbladh"
-  paperid: 10
-  url: /assets/presentations/Gustavsson.pdf
-- title: "New UX for Participatory Modeling"
-  authors: "Steven Kelly"
+- title: "Challenges of Collaborative MBSE in the Presence of Practical Intellectual Property Requirements"
+  authors: "Björn Annighöfer, Nicolai Maisch and Andreas Wortmann"
   paperid: 11
-  url: /assets/presentations/Kelly.pdf
-- title: "Towards Active Participation of Domain Experts in Modeling Language Evolution"
-  authors: "Malvina Latifaj"
-  paperid: 12
-  url: /assets/presentations/Latifaj.pdf
-- title: "Bridging the Gap: Participatory Modeling for Stakeholder-Driven NoSQL Database Design"
-  authors: "Chaimae Asaad, Karim Baïna and Mounir Ghogho"
-  paperid: 13
+- title: "Towards Ontology-Driven User Experience Assessment of Collaborative Modeling Tools"
+  authors: "Marko Mijalkovic, Vicheka Oeun, Istvan David and Sadaf Mustafiz"
+  paperid: 14
+- title: "Conflict Management for Multi-Level Models in Collaborative Modelling Environments"
+  authors: "Yuhong Fu, Georg Grossmann, Karamjit Kaur, Matt Selway and Markus Stumptner"
+  paperid: 15
