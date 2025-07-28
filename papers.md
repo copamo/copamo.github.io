@@ -2,7 +2,7 @@
 layout: page
 title: Accepted papers
 permalink: /papers
-order: 3
+order: 6
 ---
 
 {% assign papers = site.data.papers %}
