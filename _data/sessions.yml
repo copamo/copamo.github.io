@@ -1,20 +1,15 @@
 - session: AM1
   order: 1
-  title: 'Hello and welcome + flash talks'
+  title: 'Participatory modeling'
   chair: TBD
   chairurl: 
 - session: AM2
   order: 2
-  title: 'Participatory modeling'
+  title: 'Collaborative modeling'
   chair: TBD
   chairurl: 
 - session: PM1
   order: 3
-  title: 'Collaborative modeling'
-  chair: TBD
-  chairurl: 
-- session: PM2
-  order: 4
   title: 'Discussion'
   chair: TBD
   chairurl: 
