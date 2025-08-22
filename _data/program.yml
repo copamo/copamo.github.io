@@ -1,19 +1,17 @@
 - session: AM1
+  paperid: 8
+- session: AM1
+  paperid: 15
+- session: AM1
   paperid: 7
 - session: AM1
-  paperid: 6
-- session: AM1
-  paperid: 9
-- session: AM1
-  paperid: 16
-- session: AM1
-  paperid: 4
+  paperid: 14
 
 - session: AM2
-  paperid: 8
+  paperid: 9
+- session: AM2
+  paperid: 6
 - session: AM2
   paperid: 11
 - session: AM2
-  paperid: 15
-- session: AM2
-  paperid: 14
+  paperid: 4
