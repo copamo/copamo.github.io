@@ -11,7 +11,7 @@ order: 1
 
 <div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></div>
 October, 2025<br />
-Grand Rapids, MI, USA<br/>
+<b>Fully online</b>(Grand Rapids, MI, USA)<br/>
 
 ## About CoPaMo
 
