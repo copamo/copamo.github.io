@@ -47,12 +47,12 @@ navigation:
   url: /
 #- title: Keynote
 #  url: /keynote
-#- title: Talks
-#  url: /talks
+- title: Talks
+  url: /talks
 - title: Call for Papers
   url: /cfp
-- title: Accepted papers
-  url: /papers
+#- title: Accepted papers
+#  url: /papers
 - title: Important dates
   url: /dates
 - title: Organization
