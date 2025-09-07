@@ -47,8 +47,8 @@ navigation:
   url: /
 #- title: Keynote
 #  url: /keynote
-- title: Talks
-  url: /talks
+- title: Program
+  url: /program
 - title: Call for Papers
   url: /cfp
 #- title: Accepted papers
