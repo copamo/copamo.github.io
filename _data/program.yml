@@ -15,3 +15,9 @@
   paperid: 11
 - session: AM2
   paperid: 4
+
+- session: PM1
+  title: "Keynote"
+  presenter: "Dr. Moira Zellner"
+- session: PM1
+  title: "Discussion &#8211; Participatory modeling style"
