@@ -5,15 +5,6 @@ permalink: /
 order: 1
 ---
 
-<div>
-    <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
-</div>
-
-<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></div>
-October, 2025<br />
-<b>Fully online</b>(Grand Rapids, MI, USA)<br/>
-
-
 <div class="info">
     <div class="announcement-type">
         PROGRAM INFO
@@ -22,6 +13,25 @@ October, 2025<br />
         [Sep 6, 2025] <a href="https://cssh.northeastern.edu/faculty/moira-zellner/">Moira Zellner</a> (Northeastern) has been confirmed as the keynote speaker of this year's CoPaMo. Details soon.
     </div>
 </div>
+
+<div class="info">
+    <div class="announcement-type">
+        PROGRAM INFO
+    </div>
+    <div class="announcement-content">
+        [Sep 1, 2025] Date confirmed: this year's CoPaMo will take place on <b>October 5</b> (Sunday).
+    </div>
+</div>
+
+
+
+<div>
+    <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
+</div>
+
+<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></div>
+October 5, 2025<br />
+<b>Fully online</b>(Grand Rapids, MI, USA)<br/>
 
 ## About CoPaMo
 
