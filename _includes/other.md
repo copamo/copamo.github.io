@@ -4,7 +4,7 @@
 {% assign presenter = talk.presenter %}
 
 {% if talk.url %}
-  <li>{{start}}-{{end}}&nbsp;&nbsp;<i><a href="{{talk.url}}">{{ title }}</a></i>{% if presenter %} by {{ presenter }}{% endif %}</li>
+  <li><i><a href="{{talk.url}}">{{ title }}</a></i>{% if presenter %} by {{ presenter }}{% endif %}</li>
 {% else %}
-  <li>{{start}}-{{end}}&nbsp;&nbsp;<i>{{ title }}</i>{% if presenter %} by {{ presenter }}{% endif %}</li>
+  <li><i>{{ title }}</i>{% if presenter %} by {{ presenter }}{% endif %}</li>
 {% endif %}
