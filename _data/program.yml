@@ -3,6 +3,7 @@
   end: 	'8:40'
   title: "Hello and Welcome"
   presenter: "the Organizing Committee"
+  url: /
 
 - session: AM1
   start: '8:40'
@@ -45,8 +46,13 @@
   paperid: 4
 
 - session: PM1
+  start: '1:30'
+  end: 	'2:30'
   title: "Keynote"
   presenter: "Dr. Moira Zellner"
   url: /keynote
+
 - session: PM1
+  start: '2:30'
+  end: 	'3:00'
   title: "Discussion &#8211; Participatory modeling style"
