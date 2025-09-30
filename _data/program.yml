@@ -1,10 +1,27 @@
 - session: AM1
+  start: '8:30'
+  end: 	'8:40'
+  title: "Hello and Welcome"
+  presenter: "Organizing Committee"
+
+- session: AM1
+  start: '8:40'
+  end: 	'9:05'
   paperid: 8
+  
 - session: AM1
+  start: '9:07'
+  end: 	'9:22'
   paperid: 15
+  
 - session: AM1
+  start: '9:24'
+  end: 	'9:39'
   paperid: 7
+
 - session: AM1
+  start: '9:41'
+  end: 	'9:56'
   paperid: 14
 
 - session: AM2
