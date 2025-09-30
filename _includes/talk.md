@@ -5,7 +5,7 @@
 {% assign authors = paper.authors %}
 {% assign url = paper.url %}
 {% if url %}
-  <li><i><a href="{{ url }}">{{ title }}</a></i> by {{ authors }}</li>
+  <li>{{start}}-{{end}}&nbsp;&nbsp;<i><a href="{{ url }}">{{ title }}</a></i> by {{ authors }}</li>
 {% else %}
-  <li><i>{{ title }}</i> by {{ authors }}</li>
+  <li>{{start}}-{{end}}&nbsp;&nbsp;<i>{{ title }}</i> by {{ authors }}</li>
 {% endif %}
