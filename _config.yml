@@ -45,8 +45,8 @@ site-css:
 navigation:
 - title: Home
   url: /
-#- title: Keynote
-#  url: /keynote
+- title: Keynote
+  url: /keynote
 - title: Program
   url: /program
 - title: Call for Papers
