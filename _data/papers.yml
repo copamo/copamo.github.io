@@ -1,6 +1,7 @@
-- title: "User Experiences of Using Simulink in Industrial Settings for Code and Model Generation - A survey"
+- title: "User Perceptions of Code and Model Generation with Simulink in Industrial Settings - A survey"
   authors: "Johan Cederbladh and Jakob Norin"
   paperid: 4
+  slides: presentations/2025/Cederbladh.pdf
 - title: "Do we Still Need People? Comparing Human and LLM Personas in Political Modeling and Simulation"
   authors: "Stephen Zhong, Nathalie Japkowicz and Philippe Giabbanelli"
   paperid: 6
