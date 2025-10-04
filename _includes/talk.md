@@ -4,8 +4,18 @@
 {% assign title = paper.title %}
 {% assign authors = paper.authors %}
 {% assign url = paper.url %}
-{% if url %}
-  <li>{{start}}-{{end}}&nbsp;&nbsp;<i><a href="{{ url }}">{{ title }}</a></i> by {{ authors }}</li>
-{% else %}
-  <li>{{start}}-{{end}}&nbsp;&nbsp;<i>{{ title }}</i> by {{ authors }}</li>
-{% endif %}
+{% assign slides = paper.slides %}
+
+<li>
+  {{start}}-{{end}}&nbsp;&nbsp;
+  <i>
+    {% if url %}
+      <a href="{{ url }}">{{ title }}</a>
+    {% else %}
+      {{ title }}
+    {% endif %}
+  </i> by {{ authors }}
+  {% if slides %}
+    &nbsp;[<a href="{{ slides }}">slides</a>]
+  {% endif %}
+</li>
