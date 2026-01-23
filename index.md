@@ -5,26 +5,6 @@ permalink: /
 order: 1
 ---
 
-<div class="info">
-    <div class="announcement-type">
-        PROGRAM INFO
-    </div>
-    <div class="announcement-content">
-        [Sep 6, 2025] <a href="https://cssh.northeastern.edu/faculty/moira-zellner/">Moira Zellner</a> (Northeastern) has been confirmed as the <a href="/keynote">keynote speaker</a> of this year's CoPaMo.
-    </div>
-</div>
-
-<div class="info">
-    <div class="announcement-type">
-        PROGRAM INFO
-    </div>
-    <div class="announcement-content">
-        [Sep 1, 2025] Date confirmed: this year's CoPaMo will take place on <b>October 5</b> (Sunday).
-    </div>
-</div>
-
-
-
 <div>
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
