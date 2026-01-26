@@ -10,7 +10,7 @@
   {{start}}-{{end}}&nbsp;&nbsp;
   <i>
     {% if url %}
-      <a href="{{ url }}">{{ title }}</a>
+      <a href="{{ url | relative_url }}">{{ title }}</a>
     {% else %}
       {{ title }}
     {% endif %}

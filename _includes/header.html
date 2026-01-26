@@ -3,7 +3,7 @@
         <!-- {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%} -->
         <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
-        {% if site.url contains "previous_editions" %}
+        {% if site.baseurl contains "previous_editions" %}
             <a class="site-title" href="/"><img style="padding:5px 0 5px 0;" src="/assets/logo.png" height="50"></a>
         {% endif %}
         
@@ -34,12 +34,12 @@
                         <ul class="first-level">
                             {% for subpage in link.subpages %}
                             <li {% if url==subpage.url %} class="current" {% endif %}>
-                                <a  class="page-link" {% if subpage.target !=undefined %} target="{{subpage.target}}" {% endif %} href="{{ subpage.url }}">{{ subpage.title }}</a>
+                                <a  class="page-link" {% if subpage.target !=undefined %} target="{{subpage.target}}" {% endif %} href="{{ subpage.url | relative_url}}">{{ subpage.title }}</a>
                             </li>
                             {% endfor %}
                         </ul>
                         {% endif %}
-                        <a href="{{link.url}}" class="{{link.icon}} page-link">{{link.title}}{% if hasSubpages %}<i class='icon-down-dir-2'></i>{% endif %}</a>
+                        <a href="{{link.url | relative_url}}" class="{{link.icon}} page-link">{{link.title}}{% if hasSubpages %}<i class='icon-down-dir-2'></i>{% endif %}</a>
                     </li>
                     {% endfor %}
                 </ul>
