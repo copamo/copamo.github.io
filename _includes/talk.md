@@ -16,6 +16,6 @@
     {% endif %}
   </i> by {{ authors }}
   {% if slides %}
-    &nbsp;[<a href="{{site.url}}/{{ slides | asbolute_url }}">slides</a>]
+    &nbsp;[<a href="{{ slides }}">slides</a>]
   {% endif %}
 </li>
