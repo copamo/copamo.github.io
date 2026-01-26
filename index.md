@@ -9,9 +9,9 @@ order: 1
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
 
-<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="http://www.modelsconference.org">MODELS'25</a></div>
-October 5, 2025<br />
-<b>Fully online</b>(Grand Rapids, MI, USA)<br/>
+<div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="https://conf.researchr.org/home/models-2026">MODELS'26</a></div>
+4-9 October<br />
+Málaga, Spain<br/>
 
 ## About CoPaMo
 
