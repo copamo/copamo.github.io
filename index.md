@@ -13,6 +13,10 @@ order: 1
 4-9 October<br />
 Málaga, Spain<br/>
 
+<div style="text-align: center;">
+	Submit your paper now: <a href="https://easychair.org/conferences/?conf=copamo2026">https://easychair.org/conferences/?conf=copamo2026</a>.
+</div>
+
 ## About CoPaMo
 
 Collaborative modeling is an important enabler to engineering complex systems. While mostly focusing on the technical and technological aspects of collaboration, the MDE community has also recognized the need for more pronounced stakeholder-facing concerns in collaborative modeling techniques and tools. Such stakeholder-facing concerns are the ones researched under the broader participatory modeling umbrella. This workshop aims to showcase the latest developments in **Collaborative and Participatory Modeling**, as well as to expose the synergies between collaborative and participatory modeling by inviting researchers and organizers from both communities.
