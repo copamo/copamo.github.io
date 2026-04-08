@@ -44,8 +44,7 @@ All submitted papers must adhere to the [ACM Conference format](https://www.acm.
 LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., \documentclass[sigconf,review]{acmart}), and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
 
 ### **Submission**
-Manuscripts are to be submitted electronically through EasyChair. Link TBA.
-<!--: <a href="https://easychair.org/conferences?conf=copamo2026" target="_blank">https://easychair.org/conferences?conf=copamo2026</a>. -->
+Manuscripts are to be submitted electronically through EasyChair. Link <a href="https://easychair.org/conferences?conf=copamo2026" target="_blank">https://easychair.org/conferences?conf=copamo2026</a>.
 All submissions will be reviewed by at least 3 members of the program committee. 
 
 ### **Presentations**
