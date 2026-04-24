@@ -60,3 +60,12 @@ Accepted papers are intended to be published in the [MODELS](https://conf.resear
 - By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM’s new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
 
 - Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2024. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+
+**Important update on ACMs new open access publishing model for 2026 ACM Conferences!**
+
+Starting January 1, 2026, ACM has fully transitioned to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open.
+
+Understanding that this change could present financial challenges, ACM has approved a temporary subsidy of 65% for 2026. The subsidy will offer:
+- $250 APC for ACM/SIG members
+- $350 for non-members
+Note for this workshop: extended abstracts will be covered by a specific agreement with MODELS and will be published open-access free of charge.
