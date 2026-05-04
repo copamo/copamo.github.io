@@ -61,7 +61,7 @@ Accepted papers are intended to be published in the [MODELS](https://conf.resear
 
 - Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2024. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
 
-**Important update on ACMs new open access publishing model for 2026 ACM Conferences!**
+## **Important update on ACMs new open access publishing model for 2026 ACM Conferences!**
 
 Starting January 1, 2026, ACM has fully transitioned to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open.
 
