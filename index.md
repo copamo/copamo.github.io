@@ -11,9 +11,8 @@ order: 1
 
 <div class="info">
     <div class="announcement-type">
-        DEADLINE EXTENDED
+        DEADLINE EXTENDED &nbsp;
     </div>
-	&nbsp;
     <div class="announcement-content">
         [June 30, 2026] We extended the deadline until at least <b>July 10</b> (Friday).
     </div>
