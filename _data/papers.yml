@@ -1,27 +1,3 @@
-- title: "User Perceptions of Code and Model Generation with Simulink in Industrial Settings - A survey"
-  authors: "Johan Cederbladh and Jakob Norin"
-  paperid: 4
-  slides: presentations/2025/Cederbladh.pdf
-- title: "Do we Still Need People? Comparing Human and LLM Personas in Political Modeling and Simulation"
-  authors: "Stephen Zhong, Nathalie Japkowicz and Philippe Giabbanelli"
-  paperid: 6
-- title: "Combining and Simplifying the Mental Models of Participants: An Edge Centrality-Based Method for Fuzzy Cognitive Maps"
-  authors: "Ryan Schuerkamp and Philippe J. Giabbanelli"
-  paperid: 7
-- title: "A Local-First Collaborative Modeling Approach with Replicated Data Types"
-  authors: "Léo Olivier, Kirollos Morcos, Marcos Didonet Del Fabro and Sébastien Gérard"
-  paperid: 8
-  slides: presentations/2025/Olivier.pdf
-- title: "Bridging Expertise Gaps in the WEF Nexus through Participatory Modeling: Insights from Oyo State, Southwest Nigeria"
-  authors: "Foluke Olatoye, Cynthia Odili and Jafaru Egieya"
-  paperid: 9
-  slides: presentations/2025/Olatoye.pdf
-- title: "Challenges of Collaborative MBSE in the Presence of Practical Intellectual Property Requirements"
-  authors: "Björn Annighöfer, Nicolai Maisch and Andreas Wortmann"
-  paperid: 11
-- title: "Towards Ontology-Driven User Experience Assessment of Collaborative Modeling Tools"
-  authors: "Marko Mijalkovic, Vicheka Oeun, Istvan David and Sadaf Mustafiz"
-  paperid: 14
-- title: "Conflict Management for Multi-Level Models in Collaborative Modelling Environments"
-  authors: "Yuhong Fu, Georg Grossmann, Karamjit Kaur, Matt Selway and Markus Stumptner"
-  paperid: 15
+- title: "Towards Rethinking Consistency Management in Collaborative Modeling Through Organizational Dimensions"
+  authors: "Luciano Marchezan, Hyacinth Ali and Eugene Syriani"
+  paperid: 1
