@@ -9,6 +9,7 @@ order: 1
     <img src="/assets/copamo-banner.png" alt="CoPaMo" class="center"><br />
 </div>
 
+<!--
 <div class="info">
     <div class="announcement-type">
         DEADLINE EXTENDED &nbsp;
@@ -17,14 +18,17 @@ order: 1
         [June 30, 2026] We extended the deadline until at least <b>July 10</b> (Friday).
     </div>
 </div>
+-->
 
 <div style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="https://conf.researchr.org/home/models-2026">MODELS'26</a></div>
 4-9 October<br />
 Málaga, Spain<br/>
 
+<!--
 <div style="text-align: center;">
 	Submit your paper now: <a href="https://easychair.org/conferences/?conf=copamo2026">https://easychair.org/conferences/?conf=copamo2026</a>.
 </div>
+-->
 
 ## About CoPaMo
 
